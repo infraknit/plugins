@@ -1,2 +1,2 @@
-# Plugins
+# plugins
 Plugins for Data Acquisition on IP, TCP, UDP, Modbus, BACnet, Profinet, Mbus, DLMS, DLP, IEC, IOT and many more...
